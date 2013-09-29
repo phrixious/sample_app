@@ -38,7 +38,7 @@ group :doc do
 end
 
 group :development do
-  gem 'respec-rails'
+  gem 'rspec-rails'
 end
 
 group :test do
