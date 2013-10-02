@@ -1,0 +1,29 @@
+commit 37976884db4ef2ba72b12517fbae1e0bc570948f
+Author: Mathieu Keith <mathieu@mgkgroup.com>
+Date:   Wed Oct 2 11:27:42 2013 -0400
+
+    Changed Gemfile to hopefully fix heroku
+
+commit a3b9f8d5353343f631b7575e2e180ebedf561e16
+Author: Mathieu Keith <mathieu@mgkgroup.com>
+Date:   Mon Sep 30 01:36:00 2013 -0400
+
+    Added title helper and style sheets
+
+commit c2357a8d931aca822c1dc6369f8f8f98d91fa47c
+Author: Mathieu Keith <mathieu@mgkgroup.com>
+Date:   Sun Sep 29 17:24:19 2013 -0400
+
+    slightly dynamic pages, added layout etc
+
+commit d15659e17ad1c91569af0023f3e839ab0fd252a4
+Author: Mathieu Keith <mathieu@mgkgroup.com>
+Date:   Sun Sep 29 12:27:59 2013 -0400
+
+    Added a Pages controller
+
+commit 4eca5f1e21a6e8af04d7824782f194b3a922c5f1
+Author: Mathieu Keith <mathieu@mgkgroup.com>
+Date:   Sun Sep 29 11:32:10 2013 -0400
+
+    Initial commit
