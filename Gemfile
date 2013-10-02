@@ -9,6 +9,7 @@ gem 'sqlite3', :group => [:development, :test]
 group :production do
   gem 'thin'
   gem 'pg'
+  gem 'rails_serve_static_assets'
 end
 
 # Use SCSS for stylesheets
@@ -44,6 +45,10 @@ end
 group :test do
   gem 'webrat'
 end
+
+
+
+
 
 # Use ActiveModel has_secure_password
 # gem 'bcrypt-ruby', '~> 3.0.0'
