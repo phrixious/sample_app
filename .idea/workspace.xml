@@ -2,17 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="29bfe4e1-11c5-4358-9fa4-064506b75bae" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/layouts/_header.html.erb" afterPath="$PROJECT_DIR$/app/views/layouts/_header.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/pages/home.html.erb" afterPath="$PROJECT_DIR$/app/views/pages/home.html.erb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/views/users/new.html.erb" afterPath="$PROJECT_DIR$/app/views/users/new.html.erb" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/routes.rb" afterPath="$PROJECT_DIR$/config/routes.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/controllers/users_controller.rb" afterPath="$PROJECT_DIR$/app/controllers/users_controller.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/spec/controllers/users_controller_spec.rb" afterPath="$PROJECT_DIR$/spec/controllers/users_controller_spec.rb" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="sample_app.iws" />
     <ignored path=".idea/workspace.xml" />
-    <file path="/Dummy.txt" changelist="29bfe4e1-11c5-4358-9fa4-064506b75bae" time="1380733524282" ignored="false" />
+    <file path="/Dummy.txt" changelist="29bfe4e1-11c5-4358-9fa4-064506b75bae" time="1381075990824" ignored="false" />
     <file path="/hello.html" changelist="29bfe4e1-11c5-4358-9fa4-064506b75bae" time="1380471655084" ignored="false" />
     <file path="/pages_controller_spec.rb" changelist="29bfe4e1-11c5-4358-9fa4-064506b75bae" time="1380752425845" ignored="false" />
-    <file path="/routes.rb" changelist="29bfe4e1-11c5-4358-9fa4-064506b75bae" time="1380752078379" ignored="false" />
+    <file path="/routes.rb" changelist="29bfe4e1-11c5-4358-9fa4-064506b75bae" time="1380771465793" ignored="false" />
     <file path="/pages_controller.rb" changelist="29bfe4e1-11c5-4358-9fa4-064506b75bae" time="1380752523513" ignored="false" />
     <file path="/about.html.erb" changelist="29bfe4e1-11c5-4358-9fa4-064506b75bae" time="1380731083341" ignored="false" />
-    <file path="/home.html.erb" changelist="29bfe4e1-11c5-4358-9fa4-064506b75bae" time="1380734084905" ignored="false" />
+    <file path="/home.html.erb" changelist="29bfe4e1-11c5-4358-9fa4-064506b75bae" time="1380771489969" ignored="false" />
     <file path="/contact.html.erb" changelist="29bfe4e1-11c5-4358-9fa4-064506b75bae" time="1380731107665" ignored="false" />
     <file path="$PROJECT_DIR$/log/development.log" changelist="29bfe4e1-11c5-4358-9fa4-064506b75bae" time="1380476724545" ignored="false" />
     <file path="/application.html.erb" changelist="29bfe4e1-11c5-4358-9fa4-064506b75bae" time="1380734556764" ignored="false" />
@@ -23,8 +29,11 @@
     <file path="/_stylesheets.html.erb" changelist="29bfe4e1-11c5-4358-9fa4-064506b75bae" time="1380734411955" ignored="false" />
     <file path="/_footer.html.erb" changelist="29bfe4e1-11c5-4358-9fa4-064506b75bae" time="1380752151862" ignored="false" />
     <file path="/layout_links_spec.rb" changelist="29bfe4e1-11c5-4358-9fa4-064506b75bae" time="1380751906349" ignored="false" />
-    <file path="/_header.html.erb" changelist="29bfe4e1-11c5-4358-9fa4-064506b75bae" time="1380757934957" ignored="false" />
+    <file path="/_header.html.erb" changelist="29bfe4e1-11c5-4358-9fa4-064506b75bae" time="1380771703421" ignored="false" />
     <file path="/help.html.erb" changelist="29bfe4e1-11c5-4358-9fa4-064506b75bae" time="1380752486108" ignored="false" />
+    <file path="/users_controller_spec.rb" changelist="29bfe4e1-11c5-4358-9fa4-064506b75bae" time="1380771248667" ignored="false" />
+    <file path="/users_controller.rb" changelist="29bfe4e1-11c5-4358-9fa4-064506b75bae" time="1380771286022" ignored="false" />
+    <file path="/new.html.erb" changelist="29bfe4e1-11c5-4358-9fa4-064506b75bae" time="1380771371064" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,8 +53,8 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="users_controller.rb" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
+      <file leaf-file-name="application.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
           <provider selected="true" editor-type-id="text-editor">
             <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding />
@@ -53,10 +62,46 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="users_controller_spec.rb" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="users_controller.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="21" selection-start="77" selection-end="77" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="users_controller_spec.rb" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/spec/controllers/users_controller_spec.rb">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+            <state line="13" column="64" selection-start="291" selection-end="291" vertical-scroll-proportion="0.3125">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_header.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/layouts/_header.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="1" column="31" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="routes.rb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/routes.rb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="0" selection-start="39" selection-end="39" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="new.html.erb" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/views/users/new.html.erb">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="2" column="63" selection-start="189" selection-end="189" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -80,14 +125,9 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/views/pages/about.html.erb" />
-        <option value="$PROJECT_DIR$/app/views/pages/contact.html.erb" />
-        <option value="$PROJECT_DIR$/public/stylesheets/custom.css" />
         <option value="$PROJECT_DIR$/public/stylesheets/tests/custom.css" />
-        <option value="$PROJECT_DIR$/app/views/pages/home.html.erb" />
         <option value="$PROJECT_DIR$/app/views/layouts/_stylesheets.html.erb" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-        <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/views/layouts/_footer.html.erb" />
         <option value="$PROJECT_DIR$/spec/requests/layout_links_spec.rb" />
         <option value="$PROJECT_DIR$/spec/controllers/pages_controller_spec.rb" />
@@ -95,7 +135,12 @@
         <option value="$PROJECT_DIR$/app/controllers/pages_controller.rb" />
         <option value="$PROJECT_DIR$/public/stylesheets/customize.css" />
         <option value="$PROJECT_DIR$/app/helpers/application_helper.rb" />
+        <option value="$PROJECT_DIR$/app/controllers/users_controller.rb" />
+        <option value="$PROJECT_DIR$/app/views/users/new.html.erb" />
+        <option value="$PROJECT_DIR$/config/routes.rb" />
+        <option value="$PROJECT_DIR$/app/views/pages/home.html.erb" />
         <option value="$PROJECT_DIR$/app/views/layouts/_header.html.erb" />
+        <option value="$PROJECT_DIR$/spec/controllers/users_controller_spec.rb" />
       </list>
     </option>
   </component>
@@ -138,6 +183,110 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="RailsProjectView">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.RailsProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.RailsModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.RailsProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.RailsModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Public" />
+              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.folders.PublicFolderNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.RailsProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.RailsModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controllers" />
+              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.folders.ControllersFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PagesController" />
+              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.ControllerClassNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="home" />
+              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.ActionNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.RailsProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.RailsModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controllers" />
+              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.folders.ControllersFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PagesController" />
+              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.ControllerClassNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="contact" />
+              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.ActionNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.RailsProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.RailsModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controllers" />
+              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.folders.ControllersFolderNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="PagesController" />
+              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.ControllerClassNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.RailsProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.RailsModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controllers" />
+              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.folders.ControllersFolderNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -216,11 +365,47 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="stylesheets" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="sample_app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="app" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="views" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="users" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -346,140 +531,36 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="RailsProjectView">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sample_app" />
-              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.RailsProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sample_app" />
-              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.RailsModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sample_app" />
-              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.RailsProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sample_app" />
-              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.RailsModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Public" />
-              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.folders.PublicFolderNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sample_app" />
-              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.RailsProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sample_app" />
-              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.RailsModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Controllers" />
-              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.folders.ControllersFolderNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PagesController" />
-              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.ControllerClassNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="home" />
-              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.ActionNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sample_app" />
-              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.RailsProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sample_app" />
-              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.RailsModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Controllers" />
-              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.folders.ControllersFolderNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PagesController" />
-              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.ControllerClassNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="contact" />
-              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.ActionNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sample_app" />
-              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.RailsProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sample_app" />
-              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.RailsModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Controllers" />
-              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.folders.ControllersFolderNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="PagesController" />
-              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.ControllerClassNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sample_app" />
-              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.RailsProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="sample_app" />
-              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.RailsModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Controllers" />
-              <option name="myItemType" value="org.jetbrains.plugins.ruby.rails.projectView.v2.nodes.folders.ControllersFolderNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="920" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="126" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
     <property name="GoToClass.includeJavaFiles" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.searchVisible" value="true" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="123" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="121" />
     <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="recentsLimit" value="5" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
-    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
-    <property name="options.splitter.main.proportions" value="0.3" />
-    <property name="options.searchVisible" value="true" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
+    <property name="dynamic.classpath" value="false" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="121" />
+    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="920" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="126" />
     <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="123" />
   </component>
-  <component name="RunManager" selected="RSpec.PagesController GET 'help' should have the right title">
+  <component name="RunManager" selected="RSpec.UsersController should have the right title">
     <configuration default="false" name="pages_controller_spec" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
       <predefined_log_file id="RUBY_RSPEC" enabled="true" />
       <module name="sample_app" />
@@ -610,6 +691,41 @@
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="PagesController GET 'help' should have the right title" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="USE_CUSTOM_SPEC_RUNNER" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="DRB" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="FULL_BACKTRACE" VALUE="false" />
+      <RunnerSettings RunnerId="RubyRunner" />
+      <ConfigurationWrapper RunnerId="RubyRunner" />
+      <method />
+    </configuration>
+    <configuration default="false" name="UsersController should have the right title" type="RSpecRunConfigurationType" factoryName="RSpec" temporary="true">
+      <predefined_log_file id="RUBY_RSPEC" enabled="true" />
+      <module name="sample_app" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUBY_ARGS" VALUE="-e $stdout.sync=true;$stderr.sync=true;load($0=ARGV.shift)" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="WORK DIR" VALUE="$PROJECT_DIR$" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SHOULD_USE_SDK" VALUE="false" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="ALTERN_SDK_NAME" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="myPassParentEnvs" VALUE="true" />
+      <envs>
+        <env name="RAILS_ENV" value="test" />
+        <env name="JRUBY_OPTS" value="-X+O" />
+      </envs>
+      <EXTENSION ID="BundlerRunConfigurationExtension" bundleExecEnabled="true" />
+      <EXTENSION ID="JRubyRunConfigurationExtension" />
+      <EXTENSION ID="RubyCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" track_test_folders="true" runner="rcov">
+        <COVERAGE_PATTERN ENABLED="true">
+          <PATTERN REGEXPS="/.rvm/" INCLUDED="false" />
+        </COVERAGE_PATTERN>
+      </EXTENSION>
+      <EXTENSION ID="org.jetbrains.plugins.ruby.motion.run.MotionSimulatorRunExtension" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TESTS_FOLDER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_SCRIPT_PATH" VALUE="$PROJECT_DIR$/spec/controllers/users_controller_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_RUNNER_PATH" VALUE="" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_FILE_MASK" VALUE="**/*_spec.rb" />
+      <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_EXAMPLE_NAME" VALUE="UsersController should have the right title" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="TEST_TEST_TYPE" VALUE="TEST_SCRIPT" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="SPEC_ARGS" VALUE="" />
       <RSPEC_RUN_CONFIG_SETTINGS_ID NAME="RUNNER_VERSION" VALUE="" />
@@ -863,22 +979,24 @@
       <ConfigurationWrapper RunnerId="RubyRunner" />
       <method />
     </configuration>
-    <list size="8">
-      <item index="0" class="java.lang.String" itemvalue="Rake.test" />
-      <item index="1" class="java.lang.String" itemvalue="Rake.spec" />
-      <item index="2" class="java.lang.String" itemvalue="Rails.Production: sample_app" />
-      <item index="3" class="java.lang.String" itemvalue="Rails.Development: sample_app" />
-      <item index="4" class="java.lang.String" itemvalue="RSpec.pages_controller_spec" />
-      <item index="5" class="java.lang.String" itemvalue="RSpec.PagesController GET 'home' should have the right title" />
-      <item index="6" class="java.lang.String" itemvalue="RSpec.LayoutLinks should have an about page at '/about'" />
-      <item index="7" class="java.lang.String" itemvalue="RSpec.PagesController GET 'help' should have the right title" />
+    <list size="9">
+      <item index="0" class="java.lang.String" itemvalue="RSpec.pages_controller_spec" />
+      <item index="1" class="java.lang.String" itemvalue="RSpec.PagesController GET 'home' should have the right title" />
+      <item index="2" class="java.lang.String" itemvalue="RSpec.LayoutLinks should have an about page at '/about'" />
+      <item index="3" class="java.lang.String" itemvalue="RSpec.PagesController GET 'help' should have the right title" />
+      <item index="4" class="java.lang.String" itemvalue="RSpec.UsersController should have the right title" />
+      <item index="5" class="java.lang.String" itemvalue="Rake.test" />
+      <item index="6" class="java.lang.String" itemvalue="Rake.spec" />
+      <item index="7" class="java.lang.String" itemvalue="Rails.Production: sample_app" />
+      <item index="8" class="java.lang.String" itemvalue="Rails.Development: sample_app" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="RSpec.PagesController GET 'help' should have the right title" />
-        <item index="1" class="java.lang.String" itemvalue="RSpec.LayoutLinks should have an about page at '/about'" />
-        <item index="2" class="java.lang.String" itemvalue="RSpec.PagesController GET 'home' should have the right title" />
-        <item index="3" class="java.lang.String" itemvalue="RSpec.pages_controller_spec" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="RSpec.UsersController should have the right title" />
+        <item index="1" class="java.lang.String" itemvalue="RSpec.PagesController GET 'help' should have the right title" />
+        <item index="2" class="java.lang.String" itemvalue="RSpec.LayoutLinks should have an about page at '/about'" />
+        <item index="3" class="java.lang.String" itemvalue="RSpec.PagesController GET 'home' should have the right title" />
+        <item index="4" class="java.lang.String" itemvalue="RSpec.pages_controller_spec" />
       </list>
     </recent_temporary>
   </component>
@@ -915,20 +1033,20 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1365" y="-4" width="1368" height="773" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27045456" sideWeight="0.6589506" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.27954546" sideWeight="0.6589506" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.34104937" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34104937" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3287037" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -999,114 +1117,163 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/public/stylesheets/tests/custom.css">
+    <entry file="file://$PROJECT_DIR$/app/helpers/pages_helper.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="0" selection-start="207" selection-end="207" vertical-scroll-proportion="0.5305466">
+        <state line="0" column="19" selection-start="18" selection-end="18" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/pages/help.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="1" column="81" selection-start="95" selection-end="95" vertical-scroll-proportion="-0.625" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/pages_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="18" selection-start="197" selection-end="197" vertical-scroll-proportion="0.52369076" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/spec/controllers/pages_controller_spec.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="62" column="71" selection-start="1494" selection-end="1494" vertical-scroll-proportion="1.1770574" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/stylesheets/customize.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="19" selection-start="279" selection-end="279" vertical-scroll-proportion="0.5885287" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/helpers/application_helper.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="67" selection-start="295" selection-end="295" vertical-scroll-proportion="0.4862843" />
+      </provider>
+    </entry>
+    <entry file="uml://GemDependency/#sample_app">
+      <provider selected="true" editor-type-id="UmlEditorProvider">
+        <state>
+          <ID>GemDependency</ID>
+          <OriginalElement>#sample_app</OriginalElement>
+          <nodes>
+            <node x="" y="">mail</node>
+            <node x="" y="">nokogiri</node>
+            <node x="" y="">tilt</node>
+            <node x="" y="">activerecord-deprecated_finders</node>
+            <node x="" y="">sass</node>
+            <node x="" y="">webrat</node>
+            <node x="" y="">railties</node>
+            <node x="" y="">actionpack</node>
+            <node x="" y="">coffee-script</node>
+            <node x="" y="">rspec-mocks</node>
+            <node x="" y="">polyglot</node>
+            <node x="" y="">hike</node>
+            <node x="" y="">i18n</node>
+            <node x="" y="">coffee-rails</node>
+            <node x="" y="">thin</node>
+            <node x="" y="">diff-lcs</node>
+            <node x="" y="">rdoc</node>
+            <node x="" y="">arel</node>
+            <node x="" y="">rspec-expectations</node>
+            <node x="" y="">bundler</node>
+            <node x="" y="">atomic</node>
+            <node x="" y="">execjs</node>
+            <node x="" y="">thread_safe</node>
+            <node x="" y="">#sample_app</node>
+            <node x="" y="">sqlite3</node>
+            <node x="" y="">rails_serve_static_assets</node>
+            <node x="" y="">sdoc</node>
+            <node x="" y="">mime-types</node>
+            <node x="" y="">rack-test</node>
+            <node x="" y="">rails</node>
+            <node x="" y="">activerecord</node>
+            <node x="" y="">builder</node>
+            <node x="" y="">turbolinks</node>
+            <node x="" y="">daemons</node>
+            <node x="" y="">mini_portile</node>
+            <node x="" y="">json</node>
+            <node x="" y="">multi_json</node>
+            <node x="" y="">jquery-rails</node>
+            <node x="" y="">rspec-core</node>
+            <node x="" y="">thor</node>
+            <node x="" y="">rspec-rails</node>
+            <node x="" y="">rack</node>
+            <node x="" y="">activesupport</node>
+            <node x="" y="">minitest</node>
+            <node x="" y="">actionmailer</node>
+            <node x="" y="">treetop</node>
+            <node x="" y="">tzinfo</node>
+            <node x="" y="">jbuilder</node>
+            <node x="" y="">uglifier</node>
+            <node x="" y="">erubis</node>
+            <node x="" y="">sprockets</node>
+            <node x="" y="">eventmachine</node>
+            <node x="" y="">pg</node>
+            <node x="" y="">sprockets-rails</node>
+            <node x="" y="">coffee-script-source</node>
+            <node x="" y="">activemodel</node>
+            <node x="" y="">rake</node>
+            <node x="" y="">sass-rails</node>
+          </nodes>
+          <notes />
+          <edges />
+          <settings layout="Hierarchic Group" zoom="0.589283449587825" x="2292.0" y="1347.0" />
+          <SelectedNodes />
+          <Categories />
+          <SCOPE>All</SCOPE>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/pages/home.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="35" selection-start="126" selection-end="126" vertical-scroll-proportion="0.0795756" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/_footer.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="45" selection-start="135" selection-end="135" vertical-scroll-proportion="0.16853933" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/layouts/_stylesheets.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="34" selection-start="341" selection-end="341" vertical-scroll-proportion="0.2387268" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="21" selection-start="77" selection-end="77" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/application.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="32" selection-start="341" selection-end="341" vertical-scroll-proportion="0.35117057">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/_stylesheets.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="34" selection-start="341" selection-end="341" vertical-scroll-proportion="0.15050167">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/pages/home.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="64" selection-start="154" selection-end="154" vertical-scroll-proportion="0.050167225">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spec/requests/layout_links_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="40" selection-start="278" selection-end="278" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/helpers/pages_helper.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="19" selection-start="18" selection-end="18" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/pages/help.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="81" selection-start="95" selection-end="95" vertical-scroll-proportion="-0.625">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/pages_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="18" selection-start="197" selection-end="197" vertical-scroll-proportion="0.52369076">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config/routes.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="0" selection-start="208" selection-end="208" vertical-scroll-proportion="0.29925188">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views/layouts/_footer.html.erb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="45" selection-start="135" selection-end="135" vertical-scroll-proportion="0.1591512">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/spec/controllers/pages_controller_spec.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="62" column="71" selection-start="1494" selection-end="1494" vertical-scroll-proportion="1.1770574">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/public/stylesheets/customize.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="19" selection-start="279" selection-end="279" vertical-scroll-proportion="0.5885287">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/app/views/layouts/_header.html.erb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="1" column="20" selection-start="29" selection-end="29" vertical-scroll-proportion="0.0397878">
+        <state line="1" column="31" selection-start="40" selection-end="40" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/helpers/application_helper.rb">
+    <entry file="file://$PROJECT_DIR$/config/routes.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="67" selection-start="295" selection-end="295" vertical-scroll-proportion="0.4862843">
+        <state line="2" column="0" selection-start="39" selection-end="39" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views/users/new.html.erb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="63" selection-start="189" selection-end="189" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/spec/controllers/users_controller_spec.rb">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/controllers/users_controller.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="13" column="64" selection-start="291" selection-end="291" vertical-scroll-proportion="0.3125">
           <folding />
         </state>
       </provider>
