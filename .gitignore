@@ -15,6 +15,6 @@
 /log/*.log
 /tmp
 
-# Ignore the RubyMine idea file
+# Ignore RubyMine's idea file
 
 .idea/

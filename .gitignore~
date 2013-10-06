@@ -14,3 +14,11 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+
+<<<<<<< HEAD
+# Ignore the RubyMine idea file
+=======
+# Ignore RubyMine's .idea file
+>>>>>>> layout
+
+.idea/
